@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/QT_learn/day02/image/butterfly.png</file>
+        <file>D:/QT_learn/day02/image/butterfly1.png</file>
+        <file>D:/QT_learn/day02/image/down.png</file>
+        <file>D:/QT_learn/day02/image/Frame.jpg</file>
+        <file>D:/QT_learn/day02/image/Luffy.png</file>
+        <file>D:/QT_learn/day02/image/LuffyQ.png</file>
+        <file>D:/QT_learn/day02/image/mario.gif</file>
+        <file>D:/QT_learn/day02/image/OnePiece.png</file>
+        <file>D:/QT_learn/day02/image/Sunny.jpg</file>
+        <file>D:/QT_learn/day02/image/sunny.png</file>
+        <file>D:/QT_learn/day02/image/up.png</file>
+    </qresource>
+</RCC>
