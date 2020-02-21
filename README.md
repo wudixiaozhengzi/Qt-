@@ -1,2 +1,1 @@
-# demo
-demo
+# 我写的qt练习
